@@ -1,0 +1,9 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" rx="48" fill="#FFF7ED"/>
+  <circle cx="710" cy="210" r="150" fill="#FECACA"/>
+  <path d="M190 534C266 422 420 352 592 352C676 352 748 368 804 398C842 418 864 452 864 486C864 520 838 546 792 558L714 580C686 588 660 604 638 626L610 654C590 676 562 688 530 688H328C278 688 230 668 190 632L136 584C108 558 106 510 136 480L190 534Z" fill="#111827"/>
+  <path d="M210 506C282 422 420 382 584 382C658 382 724 394 778 420C812 436 830 458 830 484C830 510 808 530 768 540L700 556C664 564 632 584 608 608L588 628C570 646 546 656 520 656H350C302 656 254 640 218 612L174 578C150 560 150 526 170 502L210 506Z" fill="#DC2626"/>
+  <path d="M256 462H588" stroke="#F8FAFC" stroke-width="18" stroke-linecap="round"/>
+  <path d="M268 572H706" stroke="#7F1D1D" stroke-width="18" stroke-linecap="round"/>
+  <text x="74" y="112" fill="#7F1D1D" font-family="Arial, sans-serif" font-size="34" font-weight="700">Jordan Retro</text>
+</svg>

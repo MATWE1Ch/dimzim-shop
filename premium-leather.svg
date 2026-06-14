@@ -1,0 +1,9 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" rx="48" fill="#FAF5FF"/>
+  <circle cx="690" cy="220" r="148" fill="#E9D5FF"/>
+  <path d="M194 534C270 428 420 358 604 358C690 358 760 374 814 404C848 422 866 450 864 484C862 518 836 538 790 550L706 572C672 580 644 598 622 620L594 650C576 670 548 680 518 680H332C282 680 232 660 194 630L140 584C112 560 110 512 140 486L194 534Z" fill="#6D28D9"/>
+  <path d="M222 506C296 434 432 398 598 398C670 398 730 410 780 432C812 446 828 468 824 492C820 516 798 534 760 542L688 556C654 564 624 582 600 606L578 628C562 646 536 656 510 656H352C306 656 262 642 226 616L188 584C166 568 166 536 186 514L222 506Z" fill="#F5D0FE"/>
+  <path d="M300 446L560 418" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round"/>
+  <path d="M276 580H700" stroke="#4C1D95" stroke-width="18" stroke-linecap="round"/>
+  <text x="74" y="112" fill="#6D28D9" font-family="Arial, sans-serif" font-size="34" font-weight="700">Premium Leather</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" rx="48" fill="#F8FAFC"/>
+  <circle cx="700" cy="220" r="148" fill="#E5E7EB"/>
+  <path d="M194 536C270 430 416 370 592 370C676 370 746 384 800 412C834 430 852 458 850 490C848 522 822 542 778 554L700 576C666 584 636 602 612 626L588 650C570 670 544 680 514 680H334C286 680 236 662 198 632L144 586C118 562 118 518 146 492L194 536Z" fill="#64748B"/>
+  <path d="M220 508C294 436 426 404 590 404C660 404 722 416 772 438C804 452 818 472 814 494C810 516 790 532 752 540L684 554C648 562 616 580 590 604L572 622C556 638 532 648 506 648H350C306 648 264 636 230 612L188 582C166 566 166 536 186 514L220 508Z" fill="#E2E8F0"/>
+  <path d="M296 450L384 514" stroke="#1E293B" stroke-width="16" stroke-linecap="round"/>
+  <path d="M384 450L296 514" stroke="#1E293B" stroke-width="16" stroke-linecap="round"/>
+  <path d="M276 578H694" stroke="#334155" stroke-width="18" stroke-linecap="round"/>
+  <text x="74" y="112" fill="#334155" font-family="Arial, sans-serif" font-size="34" font-weight="700">NB Classic</text>
+</svg>
