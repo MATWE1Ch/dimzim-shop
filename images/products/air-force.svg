@@ -1,0 +1,11 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" rx="48" fill="#F8FAFC"/>
+  <circle cx="690" cy="220" r="150" fill="#E2E8F0"/>
+  <path d="M180 520C258 418 404 358 580 358C672 358 746 374 804 406C842 428 862 462 860 494C858 528 832 548 786 558L714 572C682 578 654 594 632 618L606 646C586 668 558 680 528 680H336C284 680 234 660 194 624L134 570C102 542 100 494 128 462L180 520Z" fill="#111827"/>
+  <path d="M198 494C268 414 406 374 574 374C654 374 724 388 780 414C814 430 832 454 832 480C832 506 810 524 768 532L698 544C664 550 632 566 606 592L582 616C564 634 540 644 514 644H346C298 644 252 628 214 598L168 560C144 540 142 508 162 484L198 494Z" fill="#FFFFFF"/>
+  <path d="M294 424L352 448" stroke="#CBD5E1" stroke-width="12" stroke-linecap="round"/>
+  <path d="M372 404L430 428" stroke="#CBD5E1" stroke-width="12" stroke-linecap="round"/>
+  <path d="M452 392L508 416" stroke="#CBD5E1" stroke-width="12" stroke-linecap="round"/>
+  <path d="M272 560H694" stroke="#94A3B8" stroke-width="18" stroke-linecap="round"/>
+  <text x="74" y="112" fill="#0F172A" font-family="Arial, sans-serif" font-size="34" font-weight="700">Air Force</text>
+</svg>

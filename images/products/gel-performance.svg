@@ -1,0 +1,9 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" rx="48" fill="#F8FAFC"/>
+  <circle cx="700" cy="220" r="148" fill="#D1D5DB"/>
+  <path d="M190 546C270 432 424 362 610 362C694 362 764 378 814 406C848 424 864 452 862 482C860 514 834 534 790 546L712 568C678 578 650 596 628 620L598 650C580 670 552 680 522 680H336C286 680 236 660 198 628L144 582C116 558 114 512 144 486L190 546Z" fill="#334155"/>
+  <path d="M220 516C296 434 430 400 600 400C670 400 730 412 776 434C808 448 824 468 820 492C816 516 796 532 758 540L688 554C654 562 622 582 596 606L576 626C560 644 536 654 512 654H354C306 654 264 640 228 614L188 586C166 570 168 538 188 516L220 516Z" fill="#9CA3AF"/>
+  <path d="M284 460L548 430" stroke="#E5E7EB" stroke-width="14" stroke-linecap="round"/>
+  <path d="M274 578H694" stroke="#0F172A" stroke-width="18" stroke-linecap="round"/>
+  <text x="74" y="112" fill="#334155" font-family="Arial, sans-serif" font-size="34" font-weight="700">Gel Performance</text>
+</svg>

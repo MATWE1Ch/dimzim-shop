@@ -1,0 +1,9 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="900" rx="48" fill="#FFFBEB"/>
+  <circle cx="700" cy="220" r="148" fill="#FCD34D"/>
+  <path d="M214 484C264 380 400 328 554 328C632 328 704 340 758 366C814 394 844 440 842 490C840 540 804 574 744 588L650 608C622 614 598 628 582 650L560 678C542 700 514 714 482 714H322C266 714 214 692 176 652L138 612C110 582 114 534 146 510L214 484Z" fill="#7C2D12"/>
+  <path d="M230 466C286 390 404 350 548 350C618 350 682 360 730 380C776 400 804 428 804 464C804 500 776 526 722 540L632 562C598 570 570 588 552 612L536 632C520 650 494 660 464 660H340C294 660 248 642 212 612L182 586C160 568 164 532 186 510L230 466Z" fill="#B45309"/>
+  <path d="M300 398H508" stroke="#FDE68A" stroke-width="18" stroke-linecap="round"/>
+  <path d="M286 590H678" stroke="#451A03" stroke-width="20" stroke-linecap="round"/>
+  <text x="74" y="112" fill="#78350F" font-family="Arial, sans-serif" font-size="34" font-weight="700">Timber Classic</text>
+</svg>
